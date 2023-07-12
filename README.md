@@ -9,3 +9,5 @@ Models:
 ![Rainfell](https://user-images.githubusercontent.com/103535266/211376315-9801081a-682a-4a27-88f9-03493444f714.png)
 - WayFinder Parts
 ![WayFinder-Parts](https://user-images.githubusercontent.com/103535266/211725785-b1829f01-983d-48e4-b0f5-e255cf694bb5.png)
+- Maria Belt Piece
+![Maria Belt](https://github.com/JadeFerguson/3D-Models/blob/main/3DModels/Maria%20Belt%20Piece.png)
