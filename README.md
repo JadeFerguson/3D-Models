@@ -1,5 +1,5 @@
 # 3D-Models
-In here are pictures of things I have 3D modeled using fusion360.
+In here are pictures of things I have 3D modeled using Fusion 360.
 Models:
 - Toy Block(aka a Lego)
 ![LegoBrick](https://user-images.githubusercontent.com/103535266/211376590-ebbc2afe-0a26-4d10-8022-618ea2f0af04.png)
