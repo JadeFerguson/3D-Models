@@ -13,3 +13,5 @@ Models:
 ![Maria Belt](https://github.com/JadeFerguson/3D-Models/blob/main/3DModels/Maria%20Belt%20Piece.png)
 - Angewomon Helmet (Digimon)
 ![Angewomon Helmet](https://github.com/JadeFerguson/3D-Models/blob/main/3DModels/Angewomon%20Helmet.png)
+- Vash the Stampede Gun (Trigun Stampede)
+![Vash Weapon](Vash_The_Stampede_Gun.png)
